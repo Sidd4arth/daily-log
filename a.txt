@@ -1,0 +1,2 @@
+hello
+this file belongs to the readfile funtion problem for understanding promises !
