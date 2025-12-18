@@ -1,2 +1,1 @@
-# daily-log
-self hep stuff....
+trash !
